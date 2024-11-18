@@ -59,7 +59,7 @@ education:
       Here I am persuing my Degree on Computer Science and Engineering
     
   - area: Higher Secondary School Certificate (HSC)
-    institution: Notre Dame College 
+    institution: Notre Dame College, Dhaka
     date_start: 2018-06-01
     date_end: 2020-06-01
     summary: |
