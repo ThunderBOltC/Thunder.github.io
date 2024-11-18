@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ThunderBoltC
+title: Bramuel Chandan Hembrom
 
 # Name pronunciation (optional)
 
