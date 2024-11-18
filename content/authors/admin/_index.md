@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ThunderBoltC
+title: Bramuel Chandan Hembrom
 
 # Name pronunciation (optional)
 
@@ -10,7 +10,7 @@ first_name: Chandan
 last_name: Hembrom
 
 # Status emoji
-status:
+status: alive
   icon: ☕️
 
 # Is this the primary user of the site?
@@ -31,58 +31,41 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:chandon1072@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Chandon93066243
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/thunder_boltc
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ThunderBOltC
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/bramuel-chandan-hembrom-a36b8b26b/
+
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Problem Solving
+  - IoT
+  - Video Games
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Honors in Computer Science and Engineering
+    institution: Jahangirnagar University
+    date_start: 2022-03-09
+    date_end: 2026-03-1
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Here I am persuing my Degree on Computer Science and Engineering
+    
+  - area: Higher Secondary School Certificate (HSC)
+    institution: Notre Dame College 
+    date_start: 2018-06-01
+    date_end: 2020-06-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 5.0/5.0(Science)
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
